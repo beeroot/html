@@ -40,7 +40,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "6.x-dev"
+            "dev-master": "6.x"
         },
         "laravel": {
             "providers": [
@@ -52,7 +52,7 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "abandoned": "spatie/laravel-html",
     "prefer-stable": true
 }
